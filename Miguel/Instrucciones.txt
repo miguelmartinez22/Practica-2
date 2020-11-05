@@ -1,0 +1,7 @@
+ESTAS SON LAS INSTRUCCIONES PARA LA PRÁCTICA:
+
+
+Uno/a de los dos ha de crear un repositorio local y subirlo a su repositorio remoto en GitHub. Debe tener varios ficheros.
+El otro/a ha de clonarlo para tenerlo en su equipo.
+Cada uno/a ha de hacer una modificación local de un fichero diferente. Una la sube al repositorio remoto y el otro ha de juntar los cambios.
+Repetir este punto pero cambiando el orden.
